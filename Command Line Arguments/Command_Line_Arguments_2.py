@@ -11,3 +11,5 @@ else:
 
     # Print the sum
     print("Sum =", num1 + num2)
+
+    # Usage: python Command_Line_Arguments_2.py <num1> <num2>

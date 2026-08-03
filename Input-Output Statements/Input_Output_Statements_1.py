@@ -6,3 +6,7 @@ age = int(input("Enter your age: "))
 
 # Print the required message
 print("Hello", name + ", you will turn", age + 1, "next year.")
+
+# Enter your name: vara
+# Enter your age: 18
+# Hello vara, you will turn 19 next year.

@@ -5,3 +5,5 @@ if len(sys.argv) < 2:
 else:
     name = sys.argv[1]
     print("Hello,", name + "!")
+
+    # Usage: python Command_Line_Arguments_1.py <name>

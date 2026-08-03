@@ -9,3 +9,6 @@ total = sum(num_list)
 
 # Print the sum
 print("Sum =", total)
+
+# Enter numbers separated by spaces: 43 21
+# Sum = 64

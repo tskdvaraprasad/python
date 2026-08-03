@@ -11,3 +11,10 @@ print("Sum =", a + b)
 print("Difference =", a - b)
 print("Product =", a * b)
 print("Quotient =", a / b)
+
+# Enter the first number: 60
+# Enter the second number: 13
+# Sum = 73.0
+# Difference = 47.0
+# Product = 780.0
+# Quotient = 4.615384615384615
