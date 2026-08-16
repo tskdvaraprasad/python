@@ -6,3 +6,9 @@ print(full_name.lower())
 print(full_name.title())
 print(len(full_name))
 print(full_name[0], full_name[-1])
+
+# ADA LOVELACE
+# ada lovelace
+# Ada Lovelace
+# 12
+# A e

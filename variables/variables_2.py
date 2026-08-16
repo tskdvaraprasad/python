@@ -13,7 +13,6 @@ print("\nAfter assigning the same value:")
 print("a =", a)
 print("b =", b)
 print("c =", c)
-
 #After multiple assignment:
 #a = 10
 #b = 20

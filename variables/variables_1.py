@@ -16,7 +16,6 @@ print("Type:", type(height))
 
 print("Student:", is_student)
 print("Type:", type(is_student))
-
 #Name: Vara Prasad
 #Type: <class 'str'>
 #ge: 19

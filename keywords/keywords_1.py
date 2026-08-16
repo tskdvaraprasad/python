@@ -8,8 +8,7 @@ print("Total number of keywords:", len(keyword.kwlist))
 print("List of keywords:")
 for word in keyword.kwlist:
     print(word)
-
-    # Total number of keywords: 35
+ # Total number of keywords: 35
 # List of keywords:
 # False
 # None

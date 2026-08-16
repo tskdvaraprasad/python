@@ -27,7 +27,6 @@ a, b = b, a
 print("After swapping:")
 print("a =", a)
 print("b =", b)
-
 #Before swapping (using temporary variable):
 a = 10
 #b = 20

@@ -25,7 +25,6 @@ for i in range(1, number + 1):
 
 # Print statement
 print("Program completed successfully.")
-
 # The number is positive.
 # Count: 1
 # Count: 2

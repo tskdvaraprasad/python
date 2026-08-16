@@ -9,8 +9,6 @@ print("Type:", type(x))
 x = "Hello, Python!"
 print("\nValue:", x)
 print("Type:", type(x))
-
-
 #Value: 100
 #Type: <class 'int'>
 
