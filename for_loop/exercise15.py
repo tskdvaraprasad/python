@@ -19,3 +19,8 @@ print("Vowels =", vowels)
 print("Consonants =", consonants)
 print("Digits =", digits)
 print("Spaces =", spaces)
+# Enter a string: sai
+# Vowels = 2
+# Consonants = 1
+# Digits = 0
+# Spaces = 0

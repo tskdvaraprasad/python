@@ -8,3 +8,5 @@ while num > 0:
     num //= 10
 
 print("Reverse =", reverse)
+# Enter a number: 37
+# Reverse = 73
