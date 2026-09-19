@@ -7,4 +7,8 @@ for i in range(n):
         print(ch, end=" ")
     
     print()
-    
+# A 
+# B B 
+# C C C 
+# D D D D 
+# E E E E E 

@@ -14,3 +14,6 @@ for n in range(start, end + 1):
 
     if prime:
         print(n, end=" ")
+# Enter starting limit: 3
+# Enter ending limit: 10
+# 3 5 7 

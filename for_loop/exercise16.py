@@ -14,3 +14,5 @@ else:
         print("Prime number")
     else:
         print("Not a prime number")
+# Enter a number: 4
+# Not a prime number

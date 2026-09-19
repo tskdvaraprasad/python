@@ -9,3 +9,5 @@ for char in text:
         frequency[char] = 1
 
 print(frequency)
+
+#{'h': 1, 'e': 1, 'l': 2, 'o': 1}

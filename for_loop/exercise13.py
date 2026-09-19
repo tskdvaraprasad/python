@@ -2,3 +2,14 @@ n = int(input("Enter a number: "))
 
 for i in range(1, 11):
     print(n, "x", i, "=", n * i)
+# Enter a number: 53
+# 53 x 1 = 53
+# 53 x 2 = 106
+# 53 x 3 = 159
+# 53 x 4 = 212
+# 53 x 5 = 265
+# 53 x 6 = 318
+# 53 x 7 = 371
+# 53 x 8 = 424
+# 53 x 9 = 477
+# 53 x 10 = 530

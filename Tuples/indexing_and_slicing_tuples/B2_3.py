@@ -6,3 +6,6 @@ if value in numbers:
     print("Value exists in the tuple")
 else:
     print("Value does not exist")
+
+'''Enter a value: 40
+Value exists in the tuple'''

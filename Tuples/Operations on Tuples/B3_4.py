@@ -1,6 +1,6 @@
 data = (10, 20, [30, 40])
 
-data.append(50)
+data[2].append(50)
 
 print(data)
 

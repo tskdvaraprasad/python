@@ -12,3 +12,7 @@ else:
         print("Largest =", b)
     else:
         print("Largest =", c)
+# Enter first number: 5
+# Enter second number: 2
+# Enter third number: 7
+# Largest = 7

@@ -16,3 +16,7 @@ for num in numbers:
 print("Maximum:", maximum)
 print("Minimum:", minimum)
 print("Sum:", total)
+
+'''Maximum: 25
+Minimum: 3
+Sum: 61'''

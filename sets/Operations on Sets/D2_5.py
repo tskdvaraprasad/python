@@ -7,3 +7,6 @@ print("Unique elements:", unique_numbers)
 sorted_numbers = sorted(unique_numbers)
 
 print("Sorted list:", sorted_numbers)
+
+'''Unique elements: {1, 2, 3, 5, 8}
+Sorted list: [1, 2, 3, 5, 8]'''

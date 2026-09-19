@@ -10,3 +10,6 @@ if key in student:
     print("Value:", student[key])
 else:
     print(key, "does not exist")
+
+'''age exists
+Value: 20'''

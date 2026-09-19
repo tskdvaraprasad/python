@@ -6,3 +6,5 @@ combined = list1 + list2
 combined.sort(reverse=True)
 
 print(combined)
+
+#[60, 50, 40, 30, 20, 10]

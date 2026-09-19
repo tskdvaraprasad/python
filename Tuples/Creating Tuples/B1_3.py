@@ -12,3 +12,8 @@ new_list = list(numbers)
 
 print("Tuple to List:", new_list)
 print(type(new_list))
+
+'''List to Tuple: (10, 20, 30, 40)
+<class 'tuple'>
+Tuple to List: [1, 2, 3, 4]
+<class 'list'>'''

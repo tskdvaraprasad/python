@@ -14,3 +14,6 @@ average = sum_digits / count
 
 print("Sum =", sum_digits)
 print("Average =", average)
+# Enter a number: 21
+# Sum = 3
+# Average = 1.5

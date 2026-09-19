@@ -12,3 +12,5 @@ if original == reverse:
     print("Palindrome")
 else:
     print("Not a palindrome")
+# Enter a number: 56
+# Not a palindrome

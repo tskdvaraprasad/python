@@ -12,3 +12,7 @@ print(student)
 value = student.get("college", "Key not found")
 
 print(value)
+
+'''Removed value: 20
+{'name': 'Vara', 'branch': 'CSE'}
+Key not found'''

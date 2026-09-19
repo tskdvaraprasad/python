@@ -6,3 +6,5 @@ elif num < 0:
     print("Negative")
 else:
     print("Zero")
+# Enter a number: 5
+# Positive

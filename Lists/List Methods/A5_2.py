@@ -7,3 +7,5 @@ for num in numbers:
         result.append(num)
 
 print(result)
+
+#[1, 2, 3, 4, 5]

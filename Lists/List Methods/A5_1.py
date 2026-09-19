@@ -35,3 +35,14 @@ print("Count of 20:", numbers.count(20))
 
 # index()
 print("Index of 30:", numbers.index(30))
+
+'''Original list: [10, 20, 30, 20]
+After append: [10, 20, 30, 20, 40]
+After insert: [10, 15, 20, 30, 20, 40]
+After extend: [10, 15, 20, 30, 20, 40, 50, 60]
+After remove: [10, 15, 30, 20, 40, 50, 60]
+After pop: [10, 15, 30, 20, 40, 50]
+After sort: [10, 15, 20, 30, 40, 50]
+After reverse: [50, 40, 30, 20, 15, 10]
+Count of 20: 1
+Index of 30: 2'''

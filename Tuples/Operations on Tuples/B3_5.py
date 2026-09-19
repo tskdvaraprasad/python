@@ -4,3 +4,6 @@ sorted_numbers = sorted(numbers)
 
 print(sorted_numbers)
 print(type(sorted_numbers))
+
+'''[10, 20, 30, 40, 50]
+<class 'list'>'''

@@ -21,3 +21,7 @@ else:
         print("Valid date")
     else:
         print("Invalid date")
+# Enter year: 2026
+# Enter month: 8
+# Enter day: 21
+# Valid date

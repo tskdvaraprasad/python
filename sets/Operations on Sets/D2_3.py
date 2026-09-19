@@ -10,3 +10,6 @@ print("After discard:", numbers)
 # discard() does not raise an error if the element does not exist.
 
 numbers.discard(10)
+
+'''After remove: {1, 2, 4, 5}
+After discard: {1, 2, 5}'''

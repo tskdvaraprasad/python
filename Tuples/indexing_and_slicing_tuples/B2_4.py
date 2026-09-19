@@ -6,3 +6,7 @@ print("Minimum:", min(numbers))
 value = 20
 
 print("Count of", value, ":", numbers.count(value))
+
+'''Maximum: 50
+Minimum: 10
+Count of 20 : 3'''
